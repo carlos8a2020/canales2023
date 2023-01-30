@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1,UNIVISION
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1,UNIMAS
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+#EXTINF:-1,MULTIMEDIOS
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1,ESTRELLATV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://190.60.37.69:8015/play/a028/index.m3u8
+#EXTINF:-1,BABY FIRST
+http://190.60.37.69:8015/play/a00v/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://190.60.37.69:8015/play/a08p/index.m3u8
+#EXTINF:-1,ESPN
+http://190.60.37.69:8015/play/a09b/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://190.60.37.69:8015/play/a08q/index.m3u8
+#EXTINF:-1,NATGEO
+http://45.190.185.210:8000/play/a08q
+#EXTINF:-1,GALAVISION
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.m3u8
+#EXTINF:-1,DIY
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/515.m3u8
+#EXTINF:-1,UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1,BANDAMAX
+http://45.228.234.77:4430/play/bandamax
+#EXTINF:-1,CLARO SPORTS
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1,UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://190.61.102.67:31589/play/a08m/index.m3u8
