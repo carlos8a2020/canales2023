@@ -47,4 +47,55 @@ http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1,UNICABLE
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:-1,SKY SPORTS
-http://190.61.102.67:31589/play/a08m/index.m3u8
+http://190.61.102.67:31589/play/a08m/index.m3u8.
+#EXTINF:0,CARTOON NT HD-CH15
+http://45.228.234.77:4430/play/cartoonnetworkhd
+#EXTINF:0,Discovery Kids-CH17
+http://45.228.234.77:4430/play/discoverykids
+#EXTINF:0,Nick SIM HD-CH18
+http://45.228.234.77:4430/play/nickelodeon
+#EXTINF:0,Univision HD-CH26
+http://45.228.234.77:4430/play/univision
+#EXTINF:0,Home & Health HD-CH28
+http://45.228.234.77:4430/play/homeandhealth
+#EXTINF:0,Discovery Channel HD-CH36
+http://45.228.234.77:4430/play/discoverychannel
+#EXTINF:0,Discovery ID HD-CH37
+http://45.228.234.77:4430/play/discoveryid
+#EXTINF:0,Discovery Turbo-CH38
+http://45.228.234.77:4430/play/discoveryturbo
+#EXTINF:0,CineMax-CH40
+http://45.228.234.77:4430/play/cinemax
+#EXTINF:0,Bandamax-CH44
+http://45.228.234.77:4430/play/bandamax
+#EXTINF:0,HBO2 HD-CH47
+http://45.228.234.77:4430/play/hbodoshd
+#EXTINF:0,TNT Series HD-CH48
+http://45.228.234.77:4430/play/tntseries
+#EXTINF:0,DePelicula-CH49
+http://45.228.234.77:4430/play/depelicula
+#EXTINF:0,AXN HD-CH51
+http://45.228.234.77:4430/play/axnhd
+#EXTINF:0,TNT HD-CH55
+http://45.228.234.77:4430/play/tnthd
+#EXTINF:0,Universal-CH57
+http://45.228.234.77:4430/play/universal
+#EXTINF:0,TUDN-CH59
+http://45.228.234.77:4430/play/tudn
+#EXTINF:0,ESPN HD-CH60
+http://45.228.234.77:4430/play/espnhd
+#EXTINF:0,ESPN 2 HD-CH61
+http://45.228.234.77:4430/play/espndoshd
+#EXTINF:0,ESPN 3 HD-CH62
+http://45.228.234.77:4430/play/espntreshd
+#EXTINF:0,FOX SPORTS 2 HD-CH63
+http://45.228.234.77:4430/play/foxsportsdoshd
+#EXTINF:0,FOX SPORTS 3 HD-CH64
+http://45.228.234.77:4430/play/foxsportstreshd
+#EXTINF:0,Canal 65
+http://45.228.234.77:4430/play/canalseiscinco
+#EXTINF:0,MTV SIM HD-CH45
+http://45.228.234.77:4430/play/mtvhits
+#EXTINF:0,SPACE HD-CH53
+http://45.228.234.77:4430/play/space
+
