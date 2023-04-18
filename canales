@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1,COOKING CHANNEL
+http://173.225.246.25:8889/udp/239.203.20.24:4003
+
 #EXTINF:-1,GALAVISION
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
-#EXTINF:-1,DELICIOSO
-https://unidfp-nlds139.global.ssl.fastly.net/nlds/univisionnow/cocina2/as/live/cocina2_hd_pc.m3u8?t1=
+
+
 #EXTINF:-1,UNIMAS
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
-#EXTINF:-1,BANDAMAX
-http://45.228.234.77:4430/play/bandamax
+
 #EXTINF:-1,MULTIMEDIOS
 http://190.61.102.67:31589/play/a039/index.m3u8
 #EXTINF:-1,ESTRELLATV
