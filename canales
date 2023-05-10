@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,COOKING CHANNEL
 http://173.225.246.25:8889/udp/239.203.20.24:4003
-
 #EXTINF:-1,FOOD NETWORK
 http://170.254.234.244:8000/play/a05s/index.m3u8
-
 #EXTINF:-1,AZTECA 7
 http://45.190.13.50:8000/play/a044/index.m3u8
 #EXTINF:-1,MULTIMEDIOS
@@ -23,10 +21,6 @@ http://190.60.37.69:8015/play/a09b/index.m3u8
 http://190.60.37.69:8015/play/a08q/index.m3u8
 #EXTINF:0,CARTOON NT HD-CH15
 http://45.228.234.77:4430/play/cartoonnetworkhd
-#EXTINF:0,Discovery Kids-CH17
-http://45.228.234.77:4430/play/discoverykids
-#EXTINF:0,Nick SIM HD-CH18
-http://45.228.234.77:4430/play/nickelodeon
 #EXTINF:0,Univision HD-CH26
 http://45.228.234.77:4430/play/univision
 #EXTINF:0,Home & Health HD-CH28
@@ -43,10 +37,6 @@ http://45.228.234.77:4430/play/cinemax
 http://45.228.234.77:4430/play/bandamax
 #EXTINF:0,HBO2 HD-CH47
 http://45.228.234.77:4430/play/hbodoshd
-#EXTINF:0,TNT Series HD-CH48
-http://45.228.234.77:4430/play/tntseries
-#EXTINF:0,DePelicula-CH49
-http://45.228.234.77:4430/play/depelicula
 #EXTINF:0,AXN HD-CH51
 http://45.228.234.77:4430/play/axnhd
 #EXTINF:0,TNT HD-CH55
@@ -67,8 +57,8 @@ http://45.228.234.77:4430/play/foxsportsdoshd
 http://45.228.234.77:4430/play/foxsportstreshd
 #EXTINF:0,Canal 65
 http://45.228.234.77:4430/play/canalseiscinco
-#EXTINF:0,MTV SIM HD-CH45
-http://45.228.234.77:4430/play/mtvhits
-#EXTINF:0,SPACE HD-CH53
-http://45.228.234.77:4430/play/space
+#EXTINF:0,Unimas
+http://45.170.225.212:58001/play/uu01/index.m3u8
+#EXTINF:0,Claro Sports HD
+http://45.170.225.212:58001/play/a022/index.m3u8
 
