@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,UNIVERSO
+http://conexaoonline.top:80/4344727894/2786100443/280702
+#EXTINF:-1,DIY
+http://conexaoonline.top:80/4344727894/2786100443/280758
 #EXTINF:-1,COOKING CHANNEL
 http://173.225.246.25:8889/udp/239.203.20.24:4003
 #EXTINF:-1,FOOD NETWORK
@@ -19,8 +23,6 @@ http://190.60.37.69:8015/play/a08p/index.m3u8
 http://190.60.37.69:8015/play/a09b/index.m3u8
 #EXTINF:-1,FOX SPORTS
 http://190.60.37.69:8015/play/a08q/index.m3u8
-#EXTINF:0,CARTOON NT HD-CH15
-http://45.228.234.77:4430/play/cartoonnetworkhd
 #EXTINF:0,Univision HD-CH26
 http://45.228.234.77:4430/play/univision
 #EXTINF:0,Home & Health HD-CH28
