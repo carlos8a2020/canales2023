@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,TUDN (USA)
+http://45.228.234.77:4430/play/tudn
+#EXTINF:-1,TUDN (MX)
+http://45.170.225.212:58001/play/a041/index.m3u8
+#EXTINF:-1,BABY TV
+http://45.170.225.212:58001/play/a004/index.m3u8
+#EXTINF:-1,BEING SPORTS
+http://ss123.pro:80/younes2023/younes2023/75282
+#EXTINF:-1,HISTORY CHANNEL
+http://hidra.live:80/ivbiqvof/fVimKfhU/302673
 #EXTINF:-1,UNIVERSO
 http://conexaoonline.top:80/4344727894/2786100443/280702
 #EXTINF:-1,DIY
@@ -6,25 +16,34 @@ http://conexaoonline.top:80/4344727894/2786100443/280758
 #EXTINF:-1,COOKING CHANNEL
 http://173.225.246.25:8889/udp/239.203.20.24:4003
 #EXTINF:-1,FOOD NETWORK
-http://170.254.234.244:8000/play/a05s/index.m3u8
+http://hidra.live:80/ivbiqvof/fVimKfhU/302644
 #EXTINF:-1,AZTECA 7
 http://45.190.13.50:8000/play/a044/index.m3u8
 #EXTINF:-1,MULTIMEDIOS
-http://190.61.102.67:31589/play/a039/index.m3u8
+http://ss123.pro:80/younes2023/younes2023/552897
+#EXTINF:-1,GALAVISION
+http://conexaoonline.top:80/4344727894/2786100443/280729
+#EXTINF:0,TUDN-CH59
+http://45.228.234.77:4430/play/tudnON
+http://ss123.pro:80/younes2023/younes2023/25514
+#EXTINF:-1,UNIMAS
+http://conexaoonline.top:80/4344727894/2786100443/280600
+#EXTINF:-1,TELEMUNDO
+http://ss123.pro:80/younes2023/younes2023/25581
 #EXTINF:-1,ESTRELLATV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://190.60.37.69:8015/play/a028/index.m3u8
-#EXTINF:-1,BABY FIRST
-http://190.60.37.69:8015/play/a00v/index.m3u8
+http://hidra.live:80/ivbiqvof/fVimKfhU/302641
+#EXTINF:-1,claro sports
+http://hidra.live:80/ivbiqvof/fVimKfhU/302690
 #EXTINF:-1,DISCOVERY HD
-http://190.60.37.69:8015/play/a08p/index.m3u8
+http://hidra.live:80/ivbiqvof/fVimKfhU/302627
 #EXTINF:-1,ESPN
 http://190.60.37.69:8015/play/a09b/index.m3u8
-#EXTINF:-1,FOX SPORTS
-http://190.60.37.69:8015/play/a08q/index.m3u8
+#EXTINF:-1,FOX DEPORTES
+http://ss123.pro:80/younes2023/younes2023/90292
 #EXTINF:0,Univision HD-CH26
-http://45.228.234.77:4430/play/univision
+http://conexaoonline.top:80/4344727894/2786100443/280598
 #EXTINF:0,Home & Health HD-CH28
 http://45.228.234.77:4430/play/homeandhealth
 #EXTINF:0,Discovery Channel HD-CH36
@@ -45,8 +64,6 @@ http://45.228.234.77:4430/play/axnhd
 http://45.228.234.77:4430/play/tnthd
 #EXTINF:0,Universal-CH57
 http://45.228.234.77:4430/play/universal
-#EXTINF:0,TUDN-CH59
-http://45.228.234.77:4430/play/tudn
 #EXTINF:0,ESPN HD-CH60
 http://45.228.234.77:4430/play/espnhd
 #EXTINF:0,ESPN 2 HD-CH61
@@ -57,8 +74,6 @@ http://45.228.234.77:4430/play/espntreshd
 http://45.228.234.77:4430/play/foxsportsdoshd
 #EXTINF:0,FOX SPORTS 3 HD-CH64
 http://45.228.234.77:4430/play/foxsportstreshd
-#EXTINF:0,Canal 65
-http://45.228.234.77:4430/play/canalseiscinco
 #EXTINF:0,Unimas
 http://45.170.225.212:58001/play/uu01/index.m3u8
 #EXTINF:0,Claro Sports HD
