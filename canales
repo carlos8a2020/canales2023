@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TUDN (USA)
-http://45.228.234.77:4430/play/tudn
+http://hidra.live:80/ivbiqvof/fVimKfhU/304510
 #EXTINF:-1,TUDN (MX)
 http://45.170.225.212:58001/play/a041/index.m3u8
 #EXTINF:-1,BABY TV
 http://45.170.225.212:58001/play/a004/index.m3u8
-#EXTINF:-1,BEING SPORTS
-http://ss123.pro:80/younes2023/younes2023/75282
+#EXTINF:-1,HGTV
+http://hidra.live:80/ivbiqvof/fVimKfhU/302672
 #EXTINF:-1,HISTORY CHANNEL
 http://hidra.live:80/ivbiqvof/fVimKfhU/302673
 #EXTINF:-1,UNIVERSO
