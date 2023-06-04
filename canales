@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,UNIVISION
 http://conexaoonline.top:80/4344727894/2786100443/280598
-#EXTINF:-1,ESTRELLA TV
-http://estrellatv-plex-amagi.tv/playlist.m3u8
 #EXTINF:-1,SKI
 http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1,TUDN (MX)
