@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TUDN (USA)
-http://hidra.live:80/ivbiqvof/fVimKfhU/304510
+#EXTINF:-1,UNIVISION
+http://conexaoonline.top:80/4344727894/2786100443/280598
+#EXTINF:-1,SKI
+http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1,TUDN (MX)
 http://45.170.225.212:58001/play/a041/index.m3u8
 #EXTINF:-1,BABY TV
@@ -20,62 +22,10 @@ http://hidra.live:80/ivbiqvof/fVimKfhU/302644
 #EXTINF:-1,AZTECA 7
 http://45.190.13.50:8000/play/a044/index.m3u8
 #EXTINF:-1,MULTIMEDIOS
-http://ss123.pro:80/younes2023/younes2023/552897
-#EXTINF:-1,GALAVISION
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:#-1,GALAVISION
 http://conexaoonline.top:80/4344727894/2786100443/280729
-#EXTINF:0,TUDN-CH59
-http://45.228.234.77:4430/play/tudnON
-http://ss123.pro:80/younes2023/younes2023/25514
 #EXTINF:-1,UNIMAS
 http://conexaoonline.top:80/4344727894/2786100443/280600
-#EXTINF:-1,TELEMUNDO
-http://ss123.pro:80/younes2023/younes2023/25581
-#EXTINF:-1,ESTRELLATV
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://hidra.live:80/ivbiqvof/fVimKfhU/302641
-#EXTINF:-1,claro sports
-http://hidra.live:80/ivbiqvof/fVimKfhU/302690
-#EXTINF:-1,DISCOVERY HD
-http://hidra.live:80/ivbiqvof/fVimKfhU/302627
-#EXTINF:-1,ESPN
-http://190.60.37.69:8015/play/a09b/index.m3u8
-#EXTINF:-1,FOX DEPORTES
-http://ss123.pro:80/younes2023/younes2023/90292
-#EXTINF:0,Univision HD-CH26
-http://conexaoonline.top:80/4344727894/2786100443/280598
-#EXTINF:0,Home & Health HD-CH28
-http://45.228.234.77:4430/play/homeandhealth
-#EXTINF:0,Discovery Channel HD-CH36
-http://45.228.234.77:4430/play/discoverychannel
-#EXTINF:0,Discovery ID HD-CH37
-http://45.228.234.77:4430/play/discoveryid
-#EXTINF:0,Discovery Turbo-CH38
-http://45.228.234.77:4430/play/discoveryturbo
-#EXTINF:0,CineMax-CH40
-http://45.228.234.77:4430/play/cinemax
-#EXTINF:0,Bandamax-CH44
-http://45.228.234.77:4430/play/bandamax
-#EXTINF:0,HBO2 HD-CH47
-http://45.228.234.77:4430/play/hbodoshd
-#EXTINF:0,AXN HD-CH51
-http://45.228.234.77:4430/play/axnhd
-#EXTINF:0,TNT HD-CH55
-http://45.228.234.77:4430/play/tnthd
-#EXTINF:0,Universal-CH57
-http://45.228.234.77:4430/play/universal
-#EXTINF:0,ESPN HD-CH60
-http://45.228.234.77:4430/play/espnhd
-#EXTINF:0,ESPN 2 HD-CH61
-http://45.228.234.77:4430/play/espndoshd
-#EXTINF:0,ESPN 3 HD-CH62
-http://45.228.234.77:4430/play/espntreshd
-#EXTINF:0,FOX SPORTS 2 HD-CH63
-http://45.228.234.77:4430/play/foxsportsdoshd
-#EXTINF:0,FOX SPORTS 3 HD-CH64
-http://45.228.234.77:4430/play/foxsportstreshd
-#EXTINF:0,Unimas
-http://45.170.225.212:58001/play/uu01/index.m3u8
-#EXTINF:0,Claro Sports HD
-http://45.170.225.212:58001/play/a022/index.m3u8
-
+#EXTINF:-1,BANDAMAX
+http://hidra.live:80/ivbiqvof/fVimKfhU/302616
