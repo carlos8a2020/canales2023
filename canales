@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1,UNIVISION
-http://conexaoonline.top:80/4344727894/2786100443/280598
+http://45.170.225.212:58001/play/a01g/index.m3u8
 #EXTINF:-1,SKI
 http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1,TUDN (MX)
 http://45.170.225.212:58001/play/a041/index.m3u8
 #EXTINF:-1,BABY TV
 http://45.170.225.212:58001/play/a004/index.m3u8
-#EXTINF:-1,HGTV
-http://hidra.live:80/ivbiqvof/fVimKfhU/302672
+#EXTINF:-1,ESPN
+http://187.102.208.154:8000/play/a05x/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL
-http://hidra.live:80/ivbiqvof/fVimKfhU/302673
-#EXTINF:-1,UNIVERSO
-http://conexaoonline.top:80/4344727894/2786100443/280702
-#EXTINF:-1,DIY
-http://conexaoonline.top:80/4344727894/2786100443/280758
+http://188.27.249.187:8085/play/a02t/index.m3u8
+#EXTINF:-1,AZTECA7
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://186.190.224.39:8000/play/a016/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://187.102.208.155:8000/play/a076/index.m3u8
 #EXTINF:-1,COOKING CHANNEL
 http://173.225.246.25:8889/udp/239.203.20.24:4003
 #EXTINF:-1,FOOD NETWORK
-http://hidra.live:80/ivbiqvof/fVimKfhU/302644
-#EXTINF:-1,AZTECA 7
-http://45.190.13.50:8000/play/a044/index.m3u8
+http://187.102.208.155:8000/play/a095/index.m3u8
+#EXTINF:-1,CANAL5
+http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1,MULTIMEDIOS
 http://190.61.102.67:31589/play/a039/index.m3u8
-#EXTINF:#-1,GALAVISION
-http://conexaoonline.top:80/4344727894/2786100443/280729
 #EXTINF:-1,UNIMAS
-http://conexaoonline.top:80/4344727894/2786100443/280600
+http://45.170.225.212:58001/play/uu01/index.m3u8
 #EXTINF:-1,BANDAMAX
-http://hidra.live:80/ivbiqvof/fVimKfhU/302616
+http://190.61.102.67:31589/play/a08h/index.m3u8
