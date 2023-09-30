@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0,multimedios plus
+EXTINF:0,Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+EXTINF:0,multimedios plus
 http://tutv.online:8080/StarPlay11Cesar50/rfUnKQcv6x/190835
 #EXTINF:0,tudn mx
 http://tutv.online:8080/StarPlay11Cesar50/rfUnKQcv6x/190776
