@@ -1,25 +1,386 @@
 #EXTM3U
-EXTINF:0,Fox Sports Premium
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1,Tudn Usa
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=
-#EXTINF:-1,Univision
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
-#EXTINF:-1,Galavision
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
-#EXTINF:-1,Unimas
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
-#EXTINF:-1,Estrella TV
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Delicioso
-https://unidfp-nlds139.global.ssl.fastly.net/nlds/univisionnow/cocina2/as/live/cocina2_hd_pc.m3u8?t1=
-#EXTINF:-1,Food Network
-http://190.61.55.186:1010/play/a00x/index.m3u8
-#EXTINF:-1,Las Estrellas
-http://190.61.55.186:1010/play/a017/index.m3u8
-
-
-
+#EXTINF:0,Azteca 7
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/1
+#EXTINF:0,Canal 5
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/2
+#EXTINF:0,TUDN
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/3
+#EXTINF:0,Latina
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/4
+#EXTINF:0,America TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/5
+#EXTINF:0,Gol Perú
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/6
+#EXTINF:0,Gol TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/7
+#EXTINF:0,TNT SPORTS
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/9
+#EXTINF:0,Espn Premium
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/10
+#EXTINF:0,TYC SPORTS
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/11
+#EXTINF:0,FOX SPORTS
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/12
+#EXTINF:0,Fox Sports 2
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/13
+#EXTINF:0,Fox Sports 3
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/14
+#EXTINF:0,Espn Deportes
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/15
+#EXTINF:0,Espn Extra
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/16
+#EXTINF:0,Espn Sur
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/17
+#EXTINF:0,Espn 2 Sur
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/18
+#EXTINF:0,Espn 3 Sur
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/19
+#EXTINF:0,Directv Sports
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/20
+#EXTINF:0,Directv Sports 2
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/21
+#EXTINF:0,Directv Sports Plus
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/22
+#EXTINF:0,Bein La Liga
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/23
+#EXTINF:0,Fox Sports Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/24
+#EXTINF:0,Fox Sports 2 Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/25
+#EXTINF:0,Fox Sports 3 Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/26
+#EXTINF:0,Espn Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/27
+#EXTINF:0,Espn 2 Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/28
+#EXTINF:0,Espn 3 Mexico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/29
+#EXTINF:0,Afizzionados
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/30
+#EXTINF:0,HBO
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/31
+#EXTINF:0,HBO 2
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/32
+#EXTINF:0,Liga 1
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/33
+#EXTINF:0,Liga 1 FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/34
+#EXTINF:0,Directv Sports Fight
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/36
+#EXTINF:0,Star Action MX
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/37
+#EXTINF:0,Peliculas de Accion
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/38
+#EXTINF:0,SPACE
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/39
+#EXTINF:0,MX: Warner Bros TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/40
+#EXTINF:0,TNT
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/41
+#EXTINF:0,Star Channel
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/42
+#EXTINF:0,Cinemax
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/43
+#EXTINF:0,Cinecanal
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/44
+#EXTINF:0,Telefe
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/45
+#EXTINF:0,El Trece
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/46
+#EXTINF:0,Distrito Comedia
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/47
+#EXTINF:0,Telemundo Miami
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/48
+#EXTINF:0,History
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/49
+#EXTINF:0,History 2
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/50
+#EXTINF:0,Pasiones
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/51
+#EXTINF:0,Azteca Uno
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/52
+#EXTINF:0,Az Mundo
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/53
+#EXTINF:0,Az Cinema
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/54
+#EXTINF:0,Galavision
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/55
+#EXTINF:0,Tlnovelas
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/56
+#EXTINF:0,Las Estrellas
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/57
+#EXTINF:0,Syfy
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/58
+#EXTINF:0,Caracol
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/59
+#EXTINF:0,TUDN Xtra FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/60
+#EXTINF:0,ATV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/61
+#EXTINF:0,Univision
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/62
+#EXTINF:0,Unicable
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/63
+#EXTINF:0,Unimas
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/64
+#EXTINF:0,Imagen TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/65
+#EXTINF:0,CNN ESPAÑOL
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/66
+#EXTINF:0,RT
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/67
+#EXTINF:0,Canal Sony FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/68
+#EXTINF:0,FX
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/70
+#EXTINF:0,Fox Deportes
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/72
+#EXTINF:0,Golden Plus
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/73
+#EXTINF:0,Golden Edge
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/74
+#EXTINF:0,Golden Premier
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/75
+#EXTINF:0,TNT SERIES
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/76
+#EXTINF:0,Canal Sony
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/77
+#EXTINF:0,AXN
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/78
+#EXTINF:0,Universal Channel
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/79
+#EXTINF:0,Studio Universal
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/80
+#EXTINF:0,Multipremier
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/81
+#EXTINF:0,AMC
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/82
+#EXTINF:0,Paramount Channel
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/83
+#EXTINF:0,Cine Latino
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/84
+#EXTINF:0,Dpelicula Plus
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/85
+#EXTINF:0,Isat
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/86
+#EXTINF:0,MTV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/87
+#EXTINF:0,MTV Hits
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/88
+#EXTINF:0,HTV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/89
+#EXTINF:0,Bandamax
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/90
+#EXTINF:0,Comedy Central
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/91
+#EXTINF:0,Nat Geo
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/92
+#EXTINF:0,Animal Planet
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/94
+#EXTINF:0,Discovery Channel
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/95
+#EXTINF:0,Discovery Turbo
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/96
+#EXTINF:0,Discovery HYH
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/97
+#EXTINF:0,ID Investigation
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/98
+#EXTINF:0,Discovery A&E
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/99
+#EXTINF:0,Discovery TLC
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/100
+#EXTINF:0,Discovery Theater
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/101
+#EXTINF:0,Discovery World
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/102
+#EXTINF:0,Everything
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/103
+#EXTINF:0,Lifetime
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/104
+#EXTINF:0,El Gourmet
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/106
+#EXTINF:0,DHE
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/107
+#EXTINF:0,La Familia Peluche 24/7
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/108
+#EXTINF:0,Disney Junior
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/109
+#EXTINF:0,Nick
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/110
+#EXTINF:0,Canal Uno
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/111
+#EXTINF:0,Nick Jr
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/112
+#EXTINF:0,Cartoon Network
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/114
+#EXTINF:0,Cartoonito
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/115
+#EXTINF:0,Tooncast
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/116
+#EXTINF:0,Discovery Kids
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/117
+#EXTINF:0,Telemundo Puerto Rico
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/118
+#EXTINF:0,Boing
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/119
+#EXTINF:0,VH1
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/120
+#EXTINF:0,MTV 00s
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/121
+#EXTINF:0,Azteca TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/122
+#EXTINF:0,Top Latino
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/123
+#EXTINF:0,Az click 
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/127
+#EXTINF:0,AMC FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/155
+#EXTINF:0,TNT SPORTS FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/156
+#EXTINF:0,Fox Sports Premium FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/157
+#EXTINF:0,Espn Sur FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/158
+#EXTINF:0,Espn Extra FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/159
+#EXTINF:0,ESPN DEPORTES FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/161
+#EXTINF:0,Golden FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/162
+#EXTINF:0,Cinecanal FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/163
+#EXTINF:0,Fox News
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/164
+#EXTINF:0,ESPN Premium FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/165
+#EXTINF:0,Futurama 24/7
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/166
+#EXTINF:0,Espn 4
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/167
+#EXTINF:0,NFL FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/171
+#EXTINF:0,TNT FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/172
+#EXTINF:0,Espn 3 FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/174
+#EXTINF:0,Syfy FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/176
+#EXTINF:0,Fox Sports FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/177
+#EXTINF:0,Tigo Sports Bolivia
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/178
+#EXTINF:0,Unimas Miami
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/179
+#EXTINF:0,Fox Sports 3 Mexico FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/182
+#EXTINF:0,BOING FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/183
+#EXTINF:0,Canal 26
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/184
+#EXTINF:0,Canal 26 FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/186
+#EXTINF:0,RCN Novelas
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/190
+#EXTINF:0,Fox Sports 2 FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/192
+#EXTINF:0,RCN
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/193
+#EXTINF:0,Movistar Deportes
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/194
+#EXTINF:0,Universal Channel FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/195
+#EXTINF:0,Az Corazon
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/198
+#EXTINF:0,DAZN F1
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/199
+#EXTINF:0,TUDN Xtra
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/200
+#EXTINF:0,Golden
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/202
+#EXTINF:0,Nick Music
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/331
+#EXTINF:0,GLITZ
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/339
+#EXTINF:0,Warner Bros TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/341
+#EXTINF:0,RCN MAS
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/351
+#EXTINF:0,BEIN SPORTS EXTRA FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/352
+#EXTINF:0,Disney Channel
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/353
+#EXTINF:0,Universal Reality FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/363
+#EXTINF:0,Fox Sports Premium
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/364
+#EXTINF:0,Liga 1 Max
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/367
+#EXTINF:0,Dpelicula
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/370
+#EXTINF:0,Universal Premier
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/371
+#EXTINF:0,Universal Cinema
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/372
+#EXTINF:0,DIRECTV SPORTS FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/256
+#EXTINF:0,DISCOVERY FAMILIA
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/262
+#EXTINF:0,MTV 00S
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/35
+#EXTINF:0,Pe: Exitosa FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/147
+#EXTINF:0,DAZN LA LIGA
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/361
+#EXTINF:0,Canal Sony Novelas FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/276
+#EXTINF:0,Todo Noticias
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/278
+#EXTINF:0,Television publica
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/320
+#EXTINF:0,Telemax
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/160
+#EXTINF:0,NBC News
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/288
+#EXTINF:0,DMAX
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/303
+#EXTINF:0,RT Español
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/302
+#EXTINF:0,DW Español
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/170
+#EXTINF:0,ADN 40
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/382
+#EXTINF:0,Baby TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/386
+#EXTINF:0,Music Top
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/387
+#EXTINF:0,Retro Music TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/388
+#EXTINF:0,Discovery en español
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/390
+#EXTINF:0,Canal Sony Novelas
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/219
+#EXTINF:0,Food Network
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/187
+#EXTINF:0,Miami TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/391
+#EXTINF:0,Telemundo California
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/347
+#EXTINF:0,Claro Sports FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/294
+#EXTINF:0,TVC Deportes
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/275
+#EXTINF:0,RCN XTRA FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/399
+#EXTINF:0,RCN XTRA
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/400
+#EXTINF:0,Canal Sony Cine
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/402
+#EXTINF:0,Canal Sony cine FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/403
+#EXTINF:0,Win sports Plus
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/344
+#EXTINF:0,Telemundo Puerto Rico FHD
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/188
 
 
 
