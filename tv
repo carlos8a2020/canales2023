@@ -8,6 +8,14 @@ http://cord-cutter.net:8080/go/go/57420
 http://cord-cutter.net:8080/go/go/47258
 #EXTINF:0,food network
 http://cord-cutter.net:8080/go/go/57247
+#EXTINF:0,Azteca 7
+http://45.167.253.253:4000/play/a00p/index.m3u8
+#EXTINF:0,A+
+http://45.167.253.253:4000/play/a00q/index.m3u8
+#EXTINF:0,Adn40
+http://45.167.253.253:4000/play/a00y/index.m3u8
+#EXTINF:0,Las estrellas
+http://45.167.253.253:4000/play/a010/index.m3u8
 #EXTINF:0,canal uno
 http://cord-cutter.net:8080/go/go/78698 
 #EXTINF:0,telemundo
