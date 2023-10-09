@@ -9,10 +9,8 @@ http://cord-cutter.net:8080/go/go/47258
 #EXTINF:0,food network
 http://cord-cutter.net:8080/go/go/57247
 #EXTINF:0,canal uno
-http://cord-cutter.net:8080/go/go/78698
+http://cord-cutter.net:8080/go/go/78698 
 #EXTINF:0,telemundo
-http://cord-cutter.net:8080/go/go/56430 
-#EXTINF:0,telemundo2
 http://cord-cutter.net:8080/go/go/56410
 #EXTINF:0,discovery channel
 http://cord-cutter.net:8080/go/go/57625
@@ -38,9 +36,6 @@ http://cord-cutter.net:8080/go/go/15017
 http://cord-cutter.net:8080/go/go/82241
 #EXTINF:0,univision 
 http://cord-cutter.net:8080/go/go/46692
-#EXTINF:0,las estrellas 
-http://cord-cutter.net:8080/go/go/82940
-
 
 
 
