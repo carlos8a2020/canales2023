@@ -12,10 +12,8 @@ http://cord-cutter.net:8080/go/go/57247
 http://cord-cutter.net:8080/go/go/78698 
 #EXTINF:0,telemundo
 http://cord-cutter.net:8080/go/go/56410
-#EXTINF:0,discovery channel
-http://cord-cutter.net:8080/go/go/57625
-#EXTINF:0,multimedios
-http://cord-cutter.net:8080/go/go/57646
+#EXTINF:0,Bandamax
+http://45.5.117.182:8000/play/l0hj/index.m3u8
 #EXTINF:0,unimas
 http://cord-cutter.net:8080/go/go/57969
 #EXTINF:0,baby first
